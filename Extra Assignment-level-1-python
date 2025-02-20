@@ -1,0 +1,423 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "2805db4d-306b-42bc-a846-a2843370baa7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "HOPE AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"HOPE AI\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "edeb1bd0-f449-4cfc-a1c7-2c8129bc46f4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3c0dcd06-005f-440f-b1fa-8927a53d5b08",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Buy Input"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "1c10cb05-c0cf-47ee-b0bf-58ecbfecab54",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter your institute name?: HOPE AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "Name=input(\"Enter your institute name?:\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "042094a6-3842-4d02-82f0-4d37a66fd083",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5e497168-61fb-4a02-9457-267d935052f8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Buy Input"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "0ba737d2-9d78-4888-91ef-0fdbfad55058",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter your name?: Karthi\n",
+      "Enter your age?: 27\n",
+      "Enter your School name?: Bharani Park\n",
+      "Enter your degree?: BE\n"
+     ]
+    }
+   ],
+   "source": [
+    "Name=input(\"Enter your name?:\")\n",
+    "Age=input(\"Enter your age?:\")\n",
+    "School=input(\"Enter your School name?:\")\n",
+    "Degree=input(\"Enter your degree?:\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8ec84aa6-9691-4743-90b3-2be63c953384",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6f427c03-3ff2-47ae-9fad-2b2b884aef6d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Addition"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "edab9336-3ebd-4e09-a9b7-4dcf1403f0d6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 43\n",
+      "Num2= 34\n",
+      "Add= 77\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=43\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=34\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Add=\",Num1+Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "58d461b1-81aa-4707-b723-310e580809d5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "59ec2557-013c-4419-921e-3be0f221982c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Subtraction"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "01933de2-13e3-4e94-8188-398547599a62",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 43\n",
+      "Num2= 34\n",
+      "Sub= 9\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=43\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=34\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Sub=\",Num1-Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6aae6390-6b64-42f0-ade7-b702080a3b87",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "07f60cb6-e3d7-4bd1-8300-721e5c1597b8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Multiplication"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "2a04d6ab-bc9b-421a-9bef-0d4e87edc472",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 63\n",
+      "Num2= 97\n",
+      "Mul= 6111\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=63\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=97\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Mul=\",Num1*Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5895e017-c9a5-48c4-a7c4-8e57c114734b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4c4fe138-2c79-4ffc-b98a-6e33451dd675",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Division"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "a2596c64-4b43-4f82-b3ee-5a311a15c319",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 76\n",
+      "Num2= 31\n",
+      "Div= 2.4516129032258065\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=76\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=31\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Div=\",Num1/Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "abd98221-447a-4316-96e6-ed6bc89edf44",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2f27b278-df2c-450e-af10-699d55d27cbf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Floor Division"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "id": "1a0243a5-3c7f-4794-8812-d94305b4ba17",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 76\n",
+      "Num2= 31\n",
+      "Div= 2\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=76\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=31\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Div=\",Num1//Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d13f3118-50fe-4d6f-9cfc-b16e02cd2f0d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8dc8f340-3313-46fe-b570-895cc41d2128",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Modulo"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "8885e27a-fc3e-4005-9e90-aa33f9922926",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 76\n",
+      "Num2= 31\n",
+      "Div= 14\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=76\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=31\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Div=\",Num1%Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "24e26a2b-64ea-405c-b423-6bbfa45b43ea",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5875e5b5-be10-4d76-9029-d29b7f735d09",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Power"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "7226a478-352f-4494-abe0-e0e2d09918ab",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 4\n",
+      "Num2= 4\n",
+      "Div= 256\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=4\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=4\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Div=\",Num1**Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b1ac07a6-d418-4577-a83f-5a787c5dcd0e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

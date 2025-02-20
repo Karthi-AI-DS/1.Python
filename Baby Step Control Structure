@@ -1,0 +1,143 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "635c245f-9076-4857-9145-ef1973918ae6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Welcome to Assigmnet-1\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Welcome to Assigmnet-1\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f09513ce-81b6-4cde-8773-406a7a38fb5b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "a03342d5-09c0-4e3e-9488-78782d28320f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Num1= 10\n",
+      "Num2= 30\n",
+      "Add= 40\n"
+     ]
+    }
+   ],
+   "source": [
+    "Num1=10\n",
+    "print(\"Num1=\",Num1)\n",
+    "Num2=30\n",
+    "print(\"Num2=\",Num2)\n",
+    "print(\"Add=\",Num1+Num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dc750a27-8e03-4151-9cfd-6bf0fb3b7097",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "324520c3-1bb4-455a-8a51-34d2aa1b080e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Body mass Index"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "14cb7798-4af2-4741-afbc-7f2ca31c5104",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "68206ad8-8c05-44c2-8baf-3867f6613936",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the BMI Index : 25\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Overweight\n"
+     ]
+    }
+   ],
+   "source": [
+    "BMI=int(input(\"Enter the BMI Index :\"))\n",
+    "if(BMI<18.5):\n",
+    "    print(\"Underweight\")\n",
+    "elif(BMI<24.9):\n",
+    "    print(\"Normal\")\n",
+    "elif(BMI<29.9):\n",
+    "    print(\"Overweight\")\n",
+    "else:\n",
+    "    print(\"Obese\")\n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fdbdbb34-d18d-4658-aa2e-db735d9927c6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
